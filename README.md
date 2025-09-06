@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Koirala
-- 👀 I’m interested in developing innovative solutions using AI
-- 🌱 I’m currently learning Physics Informed Neural Network
+- 👀 I’m interested in developing Agentic AI solutions using AI
+- 🌱 I’m currently building AI agents using LangGraph for small to medium scale businesses
 - 💞️ I’m looking to collaborate on innovative AI projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
